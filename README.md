@@ -1,5 +1,3 @@
-# Indiana Drones: SLAM and Navigation in a Jungle
-
 ## Overview
 
 This project tackles the challenge of navigating a drone through a dense jungle to locate and extract a piece of ancient treasure. The environment is filled with unknown trees, whose positions and sizes must be inferred as the drone moves. Additionally, the drone’s own position is unknown and must be accurately tracked. 
@@ -54,7 +52,7 @@ When done jointly, SLAM enables the vehicle to navigate in an environment withou
 
 ## Navigation and Treasure Extraction
 
-After building a sufficiently accurate map of the jungle:
+After building a sufficiently accurate map:
 - The drone uses the mapped tree locations and its current location to **plan a path** to the treasure.
 - The drone moves in increments, with each move defined by the distance (meters) and steering angle (radians).
 - **Collision Detection**: Any path that intersects a tree’s canopy is considered a crash.
