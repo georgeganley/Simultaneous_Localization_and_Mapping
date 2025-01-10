@@ -1,3 +1,7 @@
+## Acknowledgments
+
+This project was completed as part of the AI for Robotics course at Georgia Tech. This repository does not include the code or solution to the project, but does illustrate the outcomes of a successful Kalman filtering implementation.
+
 ## Overview
 
 This project tackles the challenge of navigating a drone through a dense jungle to locate and extract a piece of ancient treasure. The environment is filled with unknown trees, whose positions and sizes must be inferred as the drone moves. Additionally, the drone’s own position is unknown and must be accurately tracked. 
