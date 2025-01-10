@@ -1,6 +1,6 @@
 ## Acknowledgments
 
-This project was completed as part of the AI for Robotics course at Georgia Tech. This repository does not include the code or solution to the project, but does illustrate the outcomes of a successful Kalman filtering implementation.
+This project was completed as part of the AI for Robotics course at Georgia Tech. This repository does not include the code or solution to the project, but does illustrate the outcomes of a successful SLAM implementation.
 
 ## Overview
 
